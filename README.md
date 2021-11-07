@@ -1,7 +1,7 @@
 # TODOLearning
 
 This is a series of project to learn Front-end framework (Web and mobile) and back-end architecture (Typescript, Express, TypeORM).  
-The goal is to create a Todo app in thoses languages
+The goal is to create a Todo app in those languages
 
 **Web**
 - ReactJS
