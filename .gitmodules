@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/Lyliya/API-TODOLearning
+[submodule "web/vuejs"]
+	path = web/vuejs
+	url = https://github.com/Lyliya/VueJS-TODOLearning
