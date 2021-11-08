@@ -1,7 +1,7 @@
 # TODOLearning
 
 This is a series of project to learn Front-end framework (Web and mobile) and back-end architecture (Typescript, Express, TypeORM).  
-The goal is to create a Todo app in thoses languages
+The goal is to create a Todo app in those languages
 
 **Web**
 - ReactJS
@@ -18,5 +18,5 @@ The goal is to create a Todo app in thoses languages
 This repository is the main one and have all other ones as submodule.
 
 ## Usage
-Instantiate the API base on the api submodule README.md  
-Then navigate in the framework folder you want to use and follow the "Usage" section in README.md
+Instantiate the API based on the api submodule README.md  
+Then navigate in the framework folder you want to use and follow the "Usage" section
