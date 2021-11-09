@@ -5,8 +5,10 @@ The goal is to create a Todo app in those languages
 
 **Web**
 - ReactJS
-- VueJS
+- [VueJS](https://github.com/Lyliya/VueJS-TODOLearning) 
 - Angular
+- Native JS
+- Svelte
 
 **Mobile**
 - SwiftUI
