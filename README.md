@@ -10,7 +10,7 @@ The API can be found [here](https://github.com/Lyliya/API-TODOLearning) or in ap
 - [VueJS](https://github.com/Lyliya/VueJS-TODOLearning) 
 - Angular
 - Native JS
-- Svelte
+- [Svelte](https://github.com/Lyliya/TODOSvelte)
 
 **Mobile**
 - SwiftUI
