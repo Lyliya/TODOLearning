@@ -4,3 +4,6 @@
 [submodule "web/vuejs"]
 	path = web/vuejs
 	url = https://github.com/Lyliya/VueJS-TODOLearning
+[submodule "web/TODOSvelte"]
+	path = web/TODOSvelte
+	url = https://github.com/Lyliya/TODOSvelte
